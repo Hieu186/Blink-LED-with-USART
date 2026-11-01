@@ -31,4 +31,4 @@ This project demonstrates how to transmit and receive data over USART to control
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Hieu186/Blink-LED-with-USART.git](https://github.com/Hieu186/Blink-LED-with-USART.git)
+   git clone https://github.com/Hieu186/Blink-LED-with-USART.git
